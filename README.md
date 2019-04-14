@@ -33,7 +33,7 @@ mvn test
 # Run Instructions
 To run the program performing the following steps in a command prompt window in the root directory of the project:-
 
-mvn package
+mvn package  
 java -jar target/parental-control-service-1.0.0-SNAPSHOT.jar PG 3
 
 In the above example PG is the parent control level and 3 is the movie ID.
