@@ -12,7 +12,7 @@ Movie ID  Parent Control Level
 1          U
 2          U
 3          PG
-4  		   PG
+4  		     PG
 5          12
 6          12
 7          15
