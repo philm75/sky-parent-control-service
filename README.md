@@ -9,9 +9,9 @@ Valid Parent Control Level preferences are U, PG, 12, 15 and 18.
 
 Valid Movie IDs are 1-10.
 
-# Valid Movie ID/Parent Control Level combinations
+# All movie IDs are listed below with their control level.  
 
-Movie ID  Parent Control Level  
+Movie ID   Control Level  
 ------------------------------  
 1          U  
 2          U  
