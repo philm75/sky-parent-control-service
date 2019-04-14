@@ -1,7 +1,7 @@
 # sky-parent-control-service
-Simple Parental Control Service verifies a parent control level and movie ID combination. 
+Simple Parental Control Service verifies a parent control level preference and movie ID combination. 
 
-Valid Parent Control Levels are U, PG, 12, 15 and 18.
+Valid Parent Control Level preferences are U, PG, 12, 15 and 18.
 
 Valid Movie IDs are 1-10.
 
