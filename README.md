@@ -1,3 +1,7 @@
+# Developer: Phil Merrilees  
+# Email: merrileespp@hotmail.co.uk  
+# Mobile: 07795066652  
+
 # sky-parent-control-service
 A simple service that verifies a parent control level preference and movie ID combination. 
 
