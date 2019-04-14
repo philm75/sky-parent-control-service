@@ -84,7 +84,7 @@ public class ParentalControlServiceTest {
 		try {
 			parentalControlService.checkCustomerControlLevel(customerControlLevel, movieId);			
 		} catch (TechnicalFailureException e) {
-			assertThat(e.getMessage(), equalTo("Customer Control XX does not exist"));
+			assertThat(e.getMessage(), equalTo("Customer Parent Control level XX does not exist"));
 		}	
 	}	
 }
