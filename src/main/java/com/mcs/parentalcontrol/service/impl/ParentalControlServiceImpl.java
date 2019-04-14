@@ -35,37 +35,4 @@ public class ParentalControlServiceImpl implements ParentalControlService {
 		}				
 		return (movieControlLevel.get().rating() <= customerControlLevel.get().rating());
 	}
-
 }
-
-/*
-
-Parental Control level A string
-e.g. “PG”
-
-If the parental control level of the
-movie is equal to or less than the
-customer’s preference indicate to
-the caller that the customer can
-watch the movie
-
-
-TitleNotFound exception The movie
-service could not
-find the given
-movie
-Indicate the error to the calling
-client.
-
-
-Technical failure exception System error Indicate that the customer cannot
-watch this movie
-
-
-The service should accept as input the customer’s parental control level
-preference and a movie id. If the customer is able to watch the movie the
-ParentalControlService should indicate this to the calling client.
-
-
-
-*/
