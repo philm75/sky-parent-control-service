@@ -21,7 +21,7 @@ Movie ID  Parent Control Level
 10         18   
 
 # Installation Requirements
-Java 8 (v1.8.0_51)
+Java 8 (v1.8.0_51)  
 Apache Maven (v3.3.8)
 
 # Build instructions
